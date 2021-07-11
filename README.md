@@ -1,1 +1,3 @@
-# python_and_selenium_autotesting_course
+# Hi there!
+
+This is my first repo of 3rd module of Stepik Python + Selenium Autotesting cource (https://stepik.org/course/575/syllabus).
